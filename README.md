@@ -1,2 +1,2 @@
 # LifeAfterSchool
- C++ application with a GUI using Observer Pattern
+ C++ application with a GUI using QT Designer
